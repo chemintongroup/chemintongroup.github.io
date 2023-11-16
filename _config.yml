@@ -1,15 +1,15 @@
 domain: chemintongroup.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://chemintongroup.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /      # place folder name if the site is served in a subfolderpermalink: pretty
-title: 'Cheminton Group'
+title: 'Cheminton Group Inc.'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  mobile_height: "64px"
+  mobile_width: "240px"
   desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_height: "64px"
+  desktop_width: "240px"
 
 home: 
   limit_services: 6
