@@ -50,7 +50,7 @@ win the Nobel Prize."
 This book provides a good way for overseas and domestic people to
 truly understand China. 
 
-> Interms of geography, population, economy, and resources, China is
+> In terms of geography, population, economy, and resources, China is
 > naturally a major country with a long history and complex national
 > conditions. China has suffered national hardships and experienced its
 > development from poverty and backwardness to prosperity. Due to the
